@@ -162,12 +162,6 @@ export const IdRegistry = {
           name: 'recovery',
           type: 'address',
         },
-        {
-          indexed: false,
-          internalType: 'string',
-          name: 'url',
-          type: 'string',
-        },
       ],
       name: 'Register',
       type: 'event',
